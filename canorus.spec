@@ -12,7 +12,7 @@ License:	GPLv2
 Url:		http://canorus.sf.net/
 Group:		Publishing
 Source0:	https://vorboss.dl.sourceforge.net/project/canorus/%{version}/canorus-%{version}%{beta}.tar.bz2
-BuildRequires:	cmake
+BuildRequires:	cmake ninja
 BuildRequires:	pkgconfig(alsa)
 BuildRequires:	jackit-devel
 BuildRequires:	pkgconfig(fluidsynth)
