@@ -9,7 +9,7 @@ Release:	0.%{beta}.1
 Release:	1
 %endif
 License:	GPLv2
-Url:		http://canorus.sf.net/
+Url:		https://canorus.sf.net/
 Group:		Publishing
 Source0:	https://vorboss.dl.sourceforge.net/project/canorus/%{version}/canorus-%{version}%{beta}.tar.bz2
 BuildRequires:	cmake ninja
